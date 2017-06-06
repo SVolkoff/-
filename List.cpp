@@ -75,7 +75,7 @@ int main()
 	cout << "LIST\n\n";
 	 do
 	 {
-		cout << "\nChoose command:\n1 - add\n2 - del\n3 - get\n4 - print\n0 - exit\n\n";
+		cout << "\nSelect the command:\n1 - add\n2 - del\n3 - get\n4 - print\n0 - exit\n\n";
 		cin >> a;
 		switch (a)
 		{
